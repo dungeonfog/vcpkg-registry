@@ -1,0 +1,6 @@
+{
+    "name": "deios-bgfx-cmake",
+    "version": "1.0.0",
+    "description": "Maintained CMake build scripts for bgfx. Released under public domain.",
+    "homepage": "https://github.com/dungeonfog/bgfx.cmake"
+}
